@@ -1,8 +1,6 @@
 # World_Weather_Analysis
 
 
-# World Weather Analysis
-
 ## Overview
 
 This analysis looks at different weather patterns around the global and offers insights to travelers who want to book a trip. There are three folders here that offer different levels of analysis: weather database, vacation search, and vacation itinerary.
