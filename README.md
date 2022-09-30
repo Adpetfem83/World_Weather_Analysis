@@ -25,7 +25,7 @@ These different categories of information make it easy for travelers to choose e
 
 ### Vacation Search
 
-This folder takes the information gained in the weather database and uses Google Maps API to plot different travel destinations with a hotel at each location. For example, the image below shows the locations of all the places in the database that have an daily maximum temperature between 50 and 90 degrees farinheit.
+This folder takes the information gained in the weather database and uses Google Maps API to plot different travel destinations with a hotel at each location. For example, the image below shows the locations of all the places in the database that have a daily maximum temperature between 50 and 90 degrees farinheit.
 
 
 ![vacation_search_map](https://github.com/Adpetfem83/World_Weather_Analysis/blob/main/Vacation_Search/clean_hotel_df.png)
@@ -42,7 +42,7 @@ This folder takes the information gained in the weather database and uses Google
 
 
 
-This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in Northern California that features Fortuna, Guererro Negro, Dodge City, and .
+This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in Northern California that features Fortuna, Guererro Negro, Dodge City, and Havelock.
 
 
 ![vacation_itinerary_map](https://github.com/Adpetfem83/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
