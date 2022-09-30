@@ -3,7 +3,7 @@
 
 ## Overview
 
-This analysis looks at different weather patterns around the global and offers insights to travelers who want to book a trip. There are three folders here that offer different levels of analysis: weather database, vacation search, and vacation itinerary.
+World Weather Analysis takes a deep look at different weather patterns across the global and provides insights to travelers who want to book a trip. There are three folders here that provide different levels of analysis: weather database, vacation search, and vacation itinerary.
 
 ### Weather Database
 
@@ -42,7 +42,7 @@ This folder takes the information gained in the weather database and uses Google
 
 
 
-This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in the Southern part of the United States that features Fortuna, Guererro Negro, Dodge City, and Havelock.
+This last folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in the Southern part of the United States that features Fortuna, Guererro Negro, Dodge City, and Havelock.
 
 
 ![vacation_itinerary_map](https://github.com/Adpetfem83/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
