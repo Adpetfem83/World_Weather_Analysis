@@ -42,7 +42,7 @@ This folder takes the information gained in the weather database and uses Google
 
 
 
-This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in Northern California that features Fortuna, Guererro Negro, Dodge City, and Havelock.
+This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in the Southern part of the United States that features Fortuna, Guererro Negro, Dodge City, and Havelock.
 
 
 ![vacation_itinerary_map](https://github.com/Adpetfem83/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
