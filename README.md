@@ -46,7 +46,7 @@ This last folder takes the search information from the search folder and uses Go
 
 
 ![vacation_itinerary_map](https://github.com/Adpetfem83/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
-Also, as with the vacation search folder, there is a hotel at each location.
+Also, as with the vacation itinerary folder, there is a hotel at each of the four locations shown above and below on the maps.
 
 
 
