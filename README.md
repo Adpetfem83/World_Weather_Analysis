@@ -31,6 +31,9 @@ This folder takes the information gained in the weather database and uses Google
 
 
 
+
+
+
 ![vacation_search_map](https://github.com/Adpetfem83/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Vacation Itinerary
